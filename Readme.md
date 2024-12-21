@@ -1,6 +1,6 @@
 # Details of the web app
 
-## Step 1: Provisioning the Server
+## Step 1: Provisioning the Server.
 
 search for EC2 on the search box.
 ![image](https://github.com/user-attachments/assets/47ecfa54-add9-4f66-a0fa-cca7a2c66677)
