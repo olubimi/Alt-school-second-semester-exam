@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/133d1c07-2aaa-407c-be8e-86d3ad6acdf1)# Details of the web app
+# Details of the web app
 
 ## Step 1: Provisioning the Server
 
