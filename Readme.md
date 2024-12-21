@@ -66,7 +66,10 @@ click on the link where an arrow pointed to which contain a pair key of the inst
 A result like this will pop up if definitely doing the right thing.
 ![image](https://github.com/user-attachments/assets/463121da-2d9c-412f-832d-71ba1e84b90d)
 
-Follow the instruction on the terminal for successful connection.
+Follow the instruction on the terminal for successful connection. you will get the below result.
+![image](https://github.com/user-attachments/assets/1e028042-019a-4e37-8ed2-5a2a7cbc80d2)
+
+
 
 
 
