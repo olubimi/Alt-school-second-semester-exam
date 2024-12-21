@@ -1,4 +1,4 @@
-# Details of the web app
+![image](https://github.com/user-attachments/assets/133d1c07-2aaa-407c-be8e-86d3ad6acdf1)# Details of the web app
 
 ## Step 1: Provisioning the Server
 
@@ -96,7 +96,17 @@ Follow the instruction on the terminal for successful connection. you will get t
 ## Step 4 Networking.
 ### Configure the server to allow HTTP traffic (port 80).
 #### Steps on how to open HTTP trafic port
-1. 
+1. Check the status of your firewall with ***ufw status verbose***
+![image](https://github.com/user-attachments/assets/5aad338e-fa22-4df7-9844-5d5ef5653e66)
+
+2. check if there are any rules added to it with ***sudo ufw show added***
+![image](https://github.com/user-attachments/assets/c29c3d09-642d-4384-8f79-05836723fb63)
+
+3. Activate it since its inactive with ***sudo ufw enable*** you will get this after accepting yes.
+![image](https://github.com/user-attachments/assets/f0383a03-c79c-4917-af46-c3bc4f3ef6ce)
+
+4. 
+
 
 
 
