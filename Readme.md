@@ -84,6 +84,11 @@ Follow the instruction on the terminal for successful connection. you will get t
 4. After installing the Apache server automatically start check the status with ***sudo systemctl status apache2***
    ![image](https://github.com/user-attachments/assets/be5c5a1a-d03c-49e8-b074-96ec730b535c)
 
+### Deployin the Web Content on the server.
+1. Create a directory and name it ***temp*** with ***mkdir temp***.
+2. Change to the ***temp*** directory with ***cd temp***
+3. Get the link on the site you want to host and download it with ***wget https://github.com/Hollumidhe/ALT-schoool-second-semester-exam*** (i hosted mine on git)
+
 
 
 
