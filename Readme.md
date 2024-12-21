@@ -88,6 +88,10 @@ Follow the instruction on the terminal for successful connection. you will get t
 1. Create a directory and name it ***temp*** with ***mkdir temp***.
 2. Change to the ***temp*** directory with ***cd temp***
 3. Get the link on the site you want to host and download it with ***wget https://github.com/Hollumidhe/ALT-schoool-second-semester-exam*** (i hosted mine on git)
+4. Check if all the files are  available with ***ls -lrt***
+5. Change the location.
+6. Move all the files to this location ***/var/www/html/*** with mv */var/www/html/
+7. 
 
 
 
