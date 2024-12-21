@@ -1,6 +1,6 @@
 # Details of the web app
 
-### Provisioning the Server
+## Step 1: Provisioning the Server
 
 search for EC2 on the search box.
 ![image](https://github.com/user-attachments/assets/47ecfa54-add9-4f66-a0fa-cca7a2c66677)
@@ -37,10 +37,29 @@ In my case i will pick ***UBUNTU*** with the steps below:
    ![image](https://github.com/user-attachments/assets/e5534c48-f44c-42cd-8cea-116a3661be06)
 
    A result of this will pop up after clicking the lunch instance.
-   ![image](https://github.com/user-attachments/assets/47208856-f392-4d1c-8d54-79da1c414721)
+   ![image](https://github.com/user-attachments/assets/e0411a5c-cbd2-4c2c-9285-26b032104714)
 
    Now the instance is up and running.
    ![image](https://github.com/user-attachments/assets/15a45fe3-e3fb-4d88-8045-0d93c950e0b0)
+
+  
+## Step 2: Web Server Setup.
+###  Installing a web server (e.g., Apache, Nginx) to serve web content.
+
+Connecting to server first:
+
+click on the box to bring out the instance info.
+![image](https://github.com/user-attachments/assets/0a5fbd26-01d8-4f9d-9ef1-f93e9ef3442e)
+
+click on ***connect*** or click on the arrow beside ***action*** and click connect
+![image](https://github.com/user-attachments/assets/cf36b642-c1c5-4d76-805d-0f808e53b617)
+
+connect to instance using any preferable option, but for my case i will pick ***SSH CLIENT***
+
+![image](https://github.com/user-attachments/assets/2d570f83-4596-4d3e-852f-bf62990e4364)
+
+
+
 
 
 
