@@ -84,6 +84,7 @@ Follow the instruction on the terminal for successful connection. you will get t
 4. After installing the Apache server automatically start check the status with ***sudo systemctl status apache2***
    ![image](https://github.com/user-attachments/assets/be5c5a1a-d03c-49e8-b074-96ec730b535c)
 
+## Step 3 Web Content Page Deployment.
 ### Deployin the Web Content on the server.
 1. Create a directory and name it ***temp*** with ***mkdir temp***.
 2. Change to the ***temp*** directory with ***cd temp***
@@ -91,8 +92,11 @@ Follow the instruction on the terminal for successful connection. you will get t
 4. Check if all the files are  available with ***ls -lrt***
 5. Change the location.
 6. Move all the files to this location ***/var/www/html/*** with mv */var/www/html/
-7. 
 
+## Step 4 Networking.
+### Configure the server to allow HTTP traffic (port 80).
+#### Steps on how to open HTTP trafic port
+1. 
 
 
 
