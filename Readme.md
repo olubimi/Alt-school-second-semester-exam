@@ -58,6 +58,17 @@ connect to instance using any preferable option, but for my case i will pick ***
 
 ![image](https://github.com/user-attachments/assets/2d570f83-4596-4d3e-852f-bf62990e4364)
 
+#### Open a ***Terminal of your choice.
+
+click on the link where an arrow pointed to which contain a pair key of the instance and paste on the terminal.
+![image](https://github.com/user-attachments/assets/4a339deb-dd4e-4e2c-b5ec-2987195e0281)
+
+A result like this will pop up if definitely doing the right thing.
+![image](https://github.com/user-attachments/assets/463121da-2d9c-412f-832d-71ba1e84b90d)
+
+Follow the instructio on the terminal for successful connection.
+
+
 
 
 
