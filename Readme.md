@@ -58,7 +58,7 @@ connect to instance using any preferable option, but for my case i will pick ***
 
 ![image](https://github.com/user-attachments/assets/2d570f83-4596-4d3e-852f-bf62990e4364)
 
-#### Open a ***Terminal of your choice.
+#### Open a ***Terminal*** of your choice.
 
 click on the link where an arrow pointed to which contain a pair key of the instance and paste on the terminal.
 ![image](https://github.com/user-attachments/assets/4a339deb-dd4e-4e2c-b5ec-2987195e0281)
@@ -68,6 +68,14 @@ A result like this will pop up if definitely doing the right thing.
 
 Follow the instruction on the terminal for successful connection. you will get the below result.
 ![image](https://github.com/user-attachments/assets/1e028042-019a-4e37-8ed2-5a2a7cbc80d2)
+
+### Installing Apache server.
+#### Steps to install Apache server.
+1. Change to Superuser which is root with ***sudo su***
+ ![image](https://github.com/user-attachments/assets/34d2284e-eda6-4c6e-8dfe-4850ec4af7bc)
+2. Update Ubuntu package with ***sudo apt update***
+3. ![image](https://github.com/user-attachments/assets/a653b80a-14b8-4ff2-b32e-b6128ffdf304)
+
 
 
 
