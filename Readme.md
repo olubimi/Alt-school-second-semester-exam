@@ -95,7 +95,7 @@ Follow the instruction on the terminal for successful connection. you will get t
 
 ## Step 4 Networking.
 ### Configure the server to allow HTTP traffic (port 80).
-#### Steps on how to open HTTP trafic port
+#### Steps on how to open HTTP trafic port.
 1. Check the status of your firewall with ***ufw status verbose***
 ![image](https://github.com/user-attachments/assets/5aad338e-fa22-4df7-9844-5d5ef5653e66)
 
