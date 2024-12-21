@@ -72,9 +72,18 @@ Follow the instruction on the terminal for successful connection. you will get t
 ### Installing Apache server.
 #### Steps to install Apache server.
 1. Change to Superuser which is root with ***sudo su***
- ![image](https://github.com/user-attachments/assets/34d2284e-eda6-4c6e-8dfe-4850ec4af7bc)
+   
+![image](https://github.com/user-attachments/assets/34d2284e-eda6-4c6e-8dfe-4850ec4af7bc)
+
 2. Update Ubuntu package with ***sudo apt update***
-3. ![image](https://github.com/user-attachments/assets/a653b80a-14b8-4ff2-b32e-b6128ffdf304)
+![image](https://github.com/user-attachments/assets/a653b80a-14b8-4ff2-b32e-b6128ffdf304)
+
+3. Install Apache on the machine with ***sudo apt install apache2***
+![image](https://github.com/user-attachments/assets/b93cb4be-1578-4e28-9876-0083ceb2567b)
+
+4. After installing the Apache server automatically start check the status with ***sudo systemctl status apache2***
+   ![image](https://github.com/user-attachments/assets/be5c5a1a-d03c-49e8-b074-96ec730b535c)
+
 
 
 
