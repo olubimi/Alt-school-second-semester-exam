@@ -105,7 +105,16 @@ Follow the instruction on the terminal for successful connection. you will get t
 3. Activate it since its inactive with ***sudo ufw enable*** you will get this after accepting yes.
 ![image](https://github.com/user-attachments/assets/f0383a03-c79c-4917-af46-c3bc4f3ef6ce)
 
-4. 
+4. Allow the port for http which is 80 with***sudo ufw allow 80*** then we et this below result.
+
+![image](https://github.com/user-attachments/assets/a41c4f4b-2e92-4caa-a0ce-2501cff86661)
+
+5. we can also allow the port for for https which is 443 with ***sudo ufw allow 443*** the we get below result
+
+![image](https://github.com/user-attachments/assets/7334c896-7b8e-41cb-af46-95729b81cebd)
+
+
+
 
 
 
